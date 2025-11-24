@@ -10,3 +10,7 @@ O mapa do jogo é baseado em um layout fixo composto por paredes e caminhos. As 
 O jogo possui um sistema de pontuação que contabiliza 10 pontos por bolinha coletada, além de registrar o melhor score e os três tempos mais rápidos que o jogador já conseguiu completar o mapa. Quando todas as bolinhas são coletadas, o jogador vence, vê seu tempo e pode tentar novamente para melhorar suas marcas.
 
 Para executar o Pac-Fish, basta ter Python instalado, juntamente com a biblioteca Pygame, e rodar o arquivo principal. Os gráficos são automaticamente ajustados ao tamanho do tile, e o peixe vira corretamente para esquerda ou direita de acordo com o movimento. O jogo é livre para estudo e modificação.
+
+[![Assista ao vídeo](https://www.youtube.com/watch?v=BFtyI-5gzF0)(https://www.youtube.com/watch?v=q_4ifTnLWLw).
+
+
