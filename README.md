@@ -13,3 +13,15 @@ Para executar o Pac-Fish, basta ter Python instalado, juntamente com a bibliotec
 
 [![Assista ao vídeo](https://www.youtube.com/watch?v=BFtyI-5gzF0)
 [![Assista ao vídeo](https://www.youtube.com/watch?v=q_4ifTnLWLw)
+
+## Créditos e Referências
+
+- Autor original: greyblue9 
+- **Repositório original:**][GitHub - autor/repo](https://github.com/greyblue9/pacman-python)
+
+## 📦 Instalação
+Baixar ZIP
+Clique no botão Code (canto superior direito do repositório)
+Selecione Download ZIP
+Extraia o arquivo em qualquer pasta do seu computador
+
